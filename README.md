@@ -70,7 +70,7 @@ Final Schema<br>
 
 ## Known Bugs
 
-* _No known issues_
+* _If a user is currently creating their account they will show up in browse page and if matched with it will add null values to match table in database._
 
 ## Contact Me
 
