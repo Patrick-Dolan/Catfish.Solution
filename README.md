@@ -4,6 +4,12 @@
 
 #### _A web application for pets to find other pets to play with._
 
+## Previews
+
+![General Preview](https://github.com/Patrick-Dolan/Catfish.Solution/blob/main/README_IMAGES/Previews/GeneralPreview.gif)
+![Swipe System](https://github.com/Patrick-Dolan/Catfish.Solution/blob/main/README_IMAGES/Previews/SwipeSystem.gif)
+![Matches Page](https://github.com/Patrick-Dolan/Catfish.Solution/blob/main/README_IMAGES/Previews/MatchesPage.gif)
+
 ## Technologies Used
 
 * C#
