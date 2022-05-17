@@ -7,6 +7,7 @@
 ## Previews
 Login and browse to find potential play mates: <br>
 ![General Preview](https://github.com/Patrick-Dolan/Catfish.Solution/blob/main/README_IMAGES/Previews/GeneralPreview.gif)  
+
 Swipe left and right to make matches <br>
 ![Swipe System](https://github.com/Patrick-Dolan/Catfish.Solution/blob/main/README_IMAGES/Previews/SwipeSystem.gif)  
 Check your matches and contact them through email or unmatch if you dont mesh well <br>
